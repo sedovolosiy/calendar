@@ -28,3 +28,4 @@ else
   month = Date.today.month.to_i
   print_calendar(year, month)
 end
+# todo: need to add a cases for invalid month and year
